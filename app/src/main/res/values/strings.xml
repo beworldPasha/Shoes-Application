@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShoesApplication</string>
+
+    <string name="welcome_screen_nike_title">
+        WELLCOME TO\n
+        NIKE
+    </string>
+    <string name="welcome_screen_journey_title">
+        Let`s Start Journey\n
+        With Nike
+    </string>
+    <string name="welcome_screen_power_title">
+        You Have The\n
+        Power To
+    </string>
+
+    <string name="welcome_screen_journey_text">
+        Smart, Gorgeous &amp; Fashionable
+        Collection Explor Now
+    </string>
+    <string name="welcome_screen_power_text">
+        There Are Many Beautiful And Attractive\n
+        Plants To Your Room
+    </string>
+    <string name="empty" />
+
+    <string name="welcome_screen_button_text_get_started">Get Started</string>
+    <string name="welcome_screen_button_text_next">Next</string>
+    <string name="created_by">Created by</string>
+    <string name="my_info">Grigorash Pavel - beworld</string>
+</resources>
